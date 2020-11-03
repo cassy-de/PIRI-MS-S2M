@@ -7,3 +7,9 @@ Der Passiv-Infrarotsensor detektiert Bewegungen und schickt diese via FS20 an di
 <p align="center">
   <img src="PIRI2.jpg">
 </p>
+
+------------------
+
+<p align="center">
+  <img src="PIRI1.jpg">
+</p>
