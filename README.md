@@ -4,4 +4,8 @@ PIRI-MS-S2M: Multisensor-Transmitter, basierend auf den beiden Funkprotokollen F
 
 Der Passiv-Infrarotsensor detektiert Bewegungen und schickt diese via FS20 an die Zentrale oder Appliances, während die Messwerte der Temperatur und Luftfeuchtigkeit mittels FHT-Funkprotokoll an das Hausautomationsnetzwerk FHEM übermittelt werden. 
 
+<p align="center">
+  <img src="PIRI2.jpg">
+</p>
+
 [Alt text](PIRI2.jpg?raw=true "PIRI")
